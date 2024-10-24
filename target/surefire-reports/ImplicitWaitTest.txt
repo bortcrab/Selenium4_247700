@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: ImplicitWait
+Test set: ImplicitWaitTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.51 s -- in ImplicitWait
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.009 s -- in ImplicitWaitTest

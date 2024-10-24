@@ -12,9 +12,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
  *
- * @author Familia
+ * @author Diego Valenzuela Parra
  */
-public class ImplicitWait {
+public class ImplicitWaitTest {
     
     @Test
     public void testSimple() throws Exception {
@@ -27,7 +27,6 @@ public class ImplicitWait {
 
         // Abrimos una página.
         driver.get("https://demoqa.com/dynamic-properties");
-        driver.manage().window().maximize();
         
         try {
             WebElement button = driver.findElement(By.id("visibleAfter"));
